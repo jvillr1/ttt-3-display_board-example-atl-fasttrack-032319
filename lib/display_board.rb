@@ -1,5 +1,5 @@
 def display_board
-  display_board = ('3 x 3')
+  display_board = ()
   puts "Welcome to Tic Tac Toe"
   puts "   |   |   "
   puts "-----------"
