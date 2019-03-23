@@ -1,8 +1,8 @@
 
-  puts "Welcome to Tic Tac Toe"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+puts "Welcome to Tic Tac Toe"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
   
