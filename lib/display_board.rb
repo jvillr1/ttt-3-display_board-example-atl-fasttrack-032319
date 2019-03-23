@@ -1,4 +1,4 @@
-def display_board("   ")
+def display_board["   "]
   expect(output).to
  puts "Welcome to Tic Tac Toe"
 puts "   |   |   "
